@@ -1,4 +1,4 @@
 ---
-title: The Games DB
+title: MTG Deckbrew
 template: index.jade
 ---
